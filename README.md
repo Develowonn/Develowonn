@@ -7,16 +7,6 @@
 🔗 [메인 코드 레포지토리 바로가기](https://github.com/Develowonn/Portfolio_Codes)
 
 ---
-
-## 🛠 Last Of Survivor Penguin  
-**라이엇 게임즈 TA**와 협업한 **생존 게임**
-
----
-
-## 🎤 Speak Speak  
-**포톤 게임잼 본선 장려상 수상작**  
-**Photon PUN** 기반 **멀티플레이 게임**
-
 </div>
 
 ## 💻 Skills
