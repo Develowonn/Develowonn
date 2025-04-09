@@ -1,36 +1,25 @@
 <div align="left">
-# 🎮 Portfolio Projects - Kim Pilwon
+# 🎮 포트폴리오 프로젝트 - 김필원
 
-Welcome! This repository contains selected source codes from my portfolio projects.  
-Due to company collaboration policies, some repositories remain private.
-
-🔗 **Main Repository:** [Portfolio_Codes](https://github.com/Develowonn/Portfolio_Codes)
+일부 프로젝트는 협업 특성상 비공개입니다.  
+🔗 [메인 코드 레포지토리 바로가기](https://github.com/Develowonn/Portfolio_Codes)
 
 ---
 
 ## 🛠 Last Of Survivor Penguin
 
-> A stylized survival game project created in collaboration with a Technical Artist from Riot Games.
-
-- Developed using **Unity**.
-- Focused on real-time optimization, stylized rendering, and modular character animation.
-- Close collaboration with a professional TA enhanced the technical pipeline and visual polish.
-
-🖼️ *Visual highlights and detailed breakdown coming soon!*
+- 라이엇 게임즈 TA와 협업한 스타일라이즈드 생존 게임  
+- 최적화 및 셰이더, 애니메이션 파이프라인 개선 중심
 
 ---
 
 ## 🎤 Speak Speak
 
-> Award-winning game developed for Photon Game Jam.  
-> 🏅 *Finalist Honorable Mention*
+- 포톤 게임잼 본선 장려상 수상작  
+- Photon PUN 기반 멀티플레이 파티 게임  
+- 실시간 음성 채팅 및 동기화 구현
 
-- Multiplayer party game using **Photon Unity Networking (PUN)**.
-- Implemented low-latency voice chat and synchronized gameplay mechanics.
-- Designed and shipped within a tight game jam timeframe with a 3-person team.
-
-🎮 *Playable prototype and video demo to be added.*
-
+---
 ---
 
 ## 💻 Skills
