@@ -6,7 +6,6 @@
 
 > 🔗 [메인 코드 레포지토리 바로가기](https://github.com/Develowonn/Portfolio_Codes)
 
-</div>
 
 ## 💻 Skills
 
