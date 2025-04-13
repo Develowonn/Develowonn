@@ -9,6 +9,7 @@
 > 💰  **유료 에셋의 라이선스 제한으로 인해 소스 코드 전체 공개는 어렵습니다.**
 
 > 🔗 [메인 코드 레포지토리 바로가기](https://github.com/Develowonn/Portfolio_Codes)
+> 🔗 [개발 VELOG]([https://github.com/Develowonn/Portfolio_Codes](https://velog.io/@developwon/posts))
 
 
 &nbsp;  
