@@ -10,7 +10,7 @@
 
 # 🔗 LINK 
 
-> 🔗 [메인 코드 레포지토리 바로가기](https://github.com/Develowonn/Portfolio_Codes)
+> 🔗 [포트폴리오 레포지토리 바로가기](https://github.com/Develowonn/Portfolio_Codes)
 
 > 🔗 [개발 VELOG](https://velog.io/@developwon/posts)
 
