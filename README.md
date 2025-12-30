@@ -1,26 +1,10 @@
 <div align="left">
 
 # 🎮 안녕하세요 개발자 김필원입니다.  
- 
-🔗 LINK 
 
 > 🔗 [포트폴리오 레포지토리 바로가기](https://github.com/Develowonn/Portfolio_Codes)
 
 > 🔗 [개발 TISTORY](https://developwon.tistory.com/)
-
-
-&nbsp;  
-### 👨‍💻 Languages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🛠️ Tools  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
-
 
 
 
