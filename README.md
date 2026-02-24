@@ -1,1 +1,1 @@
-<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJmZxd9W8BqM&theme=mono&tags=%EC%B2%AD%EC%B6%98"><img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJmZxd9W8BqM&theme=mono&tags=%EC%B2%AD%EC%B6%98" alt="SoundBadge" /></a>
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJmZxd9W8BqM&theme=mono)](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJmZxd9W8BqM&theme=mono)
